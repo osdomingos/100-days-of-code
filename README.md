@@ -5,7 +5,7 @@ Este roadmap está dividido em 20 semanas com marcos e projetos para desenvolver
 ---
 
 ### Semana 1–2: Fundamentos + Algoritmos
-**Projeto:** Biblioteca de Algoritmos Visuais
+**Projeto:** Biblioteca de Algoritmos Visuais (https://github.com/osdomingos/algoritmos-visuais.git)
 - [ ] Implementar Bubble Sort, Insertion Sort, Merge Sort
 - [ ] Visualização gráfica ou logs passo a passo
 - [ ] Benchmark de desempenho simples
