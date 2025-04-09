@@ -1,6 +1,6 @@
 ## 100 Days of Code — Roadmap Pessoal
 
-Este roadmap está dividido em 20 semanas com marcos e projetos para desenvolver habilidades essenciais de um programador excelente. Cada semana pode ser dividida em 5 dias úteis de estudo e prática, com 2 dias de revisão ou descanso.
+Este roadmap está dividido em 20 semanas com marcos e projetos para desenvolver habilidades essenciais de um programador.
 
 ---
 
