@@ -71,7 +71,3 @@ Este roadmap está dividido em 20 semanas com marcos e projetos para desenvolver
 - [ ] Escolher repositório com issues abertas
 - [ ] Criar PR com correção ou melhoria
 - [ ] Documentar aprendizado no seu GitHub
-
----
-
-Se desejar, adicione metas diárias ou checklists para cada semana diretamente em cada pasta do repositório.
