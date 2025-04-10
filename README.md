@@ -6,6 +6,7 @@ Este roadmap está dividido em 20 semanas com marcos e projetos para desenvolver
 
 ### Semana 1: Organizador Pessoal de Tarefas com recompensas
 **Projeto:** Web App Ócio Produtivo (https://github.com/osdomingos/ocio-produtivo.git)
+
 **Leitura prática recomendada:** Designing Interfaces (Jennifer Tidwell), Cap. 1 — The Essentials
 - [ ] Fazer componentes em React/Vite
 - [ ] Criar banco de dados e API que realiza ações nele
